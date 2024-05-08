@@ -1,0 +1,16 @@
+header {
+    background: #c8edfa;
+}
+header h1 {
+    color: rgb(119, 29, 119);
+}
+nav {
+    border-bottom: 2px solid #000000;
+}
+footer {
+    text-align: center;
+}
+.box {
+    background-color: pink;
+    padding: 20px;
+}
